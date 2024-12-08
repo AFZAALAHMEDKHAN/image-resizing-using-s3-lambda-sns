@@ -3,6 +3,9 @@
 # Project Description:
 This project focuses on building an automated system for image processing and management within the AWS ecosystem. The goal is to streamline the handling of images by automatically resizing them and transferring them to a designated storage location while keeping stakeholders informed through notifications. Key AWS services, such as Lambda, S3, and SNS, are used to orchestrate this workflow.
 
+![Screenshot (125)](https://github.com/user-attachments/assets/c535b4c7-f012-4bfb-9447-9c4ed87d1d81)
+
+
 # Key Features:
 1. Image processing automation: Automatically resize and optimize images upon upload.
 2. Secure storage: Store processed images in a secure and reliable S3 bucket.
